@@ -1,9 +1,9 @@
-// --- Directions
-// Implement classes Node and Linked Lists
-// See 'directions' document
+// // --- Directions
+// // Implement classes Node and Linked Lists
+// // See 'directions' document
 
-class Node {}
+// class Node {}
 
-class LinkedList {}
+// class LinkedList {}
 
-module.exports = { Node, LinkedList };
+// module.exports = { Node, LinkedList };
